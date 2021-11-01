@@ -1,3 +1,6 @@
+You can access the live notebook here (note: this project was submitted as an entry into a competition on Datacamp)
+https://www.kaggle.com/lamtrinh259/russia-drink-promo
+
 # Russia drinks promotion
 
 Project synopsis: 
