@@ -1,5 +1,5 @@
-The notebook can be accessed here (note: this project was submitted as an entry into a competition on Datacamp)
-https://www.kaggle.com/lamtrinh259/russia-drink-promo
+[The notebook can be accessed here]  (https://www.kaggle.com/lamtrinh259/russia-drink-promo) (note: this project was submitted as an entry into a competition on Datacamp)
+
 
 # Russia drinks promotion
 
